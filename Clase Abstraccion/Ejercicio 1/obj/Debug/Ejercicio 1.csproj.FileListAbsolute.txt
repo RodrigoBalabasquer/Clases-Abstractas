@@ -1,0 +1,6 @@
+D:\Balabasquer\Clase Abstraccion\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+D:\Balabasquer\Clase Abstraccion\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+D:\Balabasquer\Clase Abstraccion\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+D:\Balabasquer\Clase Abstraccion\Ejercicio 1\obj\Debug\Ejercicio 1.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Clase Abstraccion\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+D:\Balabasquer\Clase Abstraccion\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
